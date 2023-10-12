@@ -1,9 +1,9 @@
 {
-    "name": "swiftmailer/swiftmailer",
+    "name": "eevgbut/swiftmailer",
     "type": "library",
     "description": "Swiftmailer, free feature-rich PHP mailer",
     "keywords": ["mail","mailer","email"],
-    "homepage": "https://swiftmailer.symfony.com",
+    "homepage": "https://github.com/eevgbut/swiftmailer.git",
     "license": "MIT",
     "authors": [
         {
